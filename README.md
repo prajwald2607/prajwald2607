@@ -5,6 +5,8 @@
 - 💞️ Gaining some expereince and preparing for upcoming challenges.
 - 📫 How to reach me: smartpd2607@gmail.com 
 - 🌐 portfolio: https://bio.link/prajwald2607
+- [![@prajwal2607's Holopin board](https://holopin.me/prajwal2607)](https://holopin.io/@prajwal2607)
+
 <!---
 prajwald2607/prajwald2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
