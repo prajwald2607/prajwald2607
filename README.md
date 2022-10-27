@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA, Cloud computing & MERN stack.
 - 💞️ Gaining some expereince and preparing for upcoming challenges.
 - 📫 How to reach me: smartpd2607@gmail.com 
-- 🌐 portfolio: https://bio.link/prajwald2607
+- 🌐 portfolio: https://prajwald2607.github.io/Prajwal-Deshmukh---portfolio/ | https://bio.link/prajwald2607
 - [![@prajwal2607's Holopin board](https://holopin.me/prajwal2607)](https://holopin.io/@prajwal2607)
 
 <!---
